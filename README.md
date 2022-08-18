@@ -1,0 +1,1 @@
+Simple web app to generate QR codes from url's built with vanilla html/css/javascript
